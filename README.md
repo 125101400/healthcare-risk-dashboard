@@ -38,7 +38,6 @@ Power BI Desktop · DAX (calculated columns and measures) ·
 Conditional formatting · Interactive slicers
 
 ## Files
-- `train_data.csv` — source dataset
 - `HSE Dashboard.pbix` — Power BI file
 - `dashboard-screenshot.png` — dashboard preview
 
