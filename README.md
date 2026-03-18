@@ -43,4 +43,4 @@ Conditional formatting · Interactive slicers
 - `dashboard-screenshot.png` — dashboard preview
 
 ## Dashboard preview
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](HSE%20dashboard%20.png)
